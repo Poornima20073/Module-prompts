@@ -39,5 +39,6 @@ Interdisciplinary collaboration brings together people with different skills, kn
 ## 10. The role of leadership in fostering a culture of imagination and innovation.
 
 Good leaders create an environment where people feel comfortable sharing ideas and experimenting. They encourage creativity, provide necessary resources, recognize innovative efforts, and allow people to learn from mistakes. Supportive leadership therefore plays an important role in building a culture of imagination and innovation.
+
 ---
-**Name:** Poornima G Yadav
+Name:Poornima G Yadav
